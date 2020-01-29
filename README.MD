@@ -1,4 +1,4 @@
-StormingApp is a Java Android Weather Application.
+# StormingApp is a Java Android Weather Application.
 
 StormingApp can:
  - Display current temperature using DarkSky API
